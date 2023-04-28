@@ -1,0 +1,10 @@
+Packages used 
+npm install @mui/material @emotion/react @emotion/styled
+
+
+First enter userName 
+Sample users 
+1. user1
+2. dummyUser
+
+onBlur from user input box the chat will be visible 
